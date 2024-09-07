@@ -1,0 +1,25 @@
+1)
+- explique el concepto de bag of tasks
+- cuales son las ventajas y desventajas
+2)
+- En que consiste la comunicación guardada ejemplifique
+- Explique como funciona el mecanismo de comunicación guardada para sentencias de decisión e iterativas.
+Despues habia ejercicio de un if con comunicación guardada y te presentaba diferentes valores y habia que decir y justificar que valor iba a tener una variable.
+3)
+- Explique que es el paradigma Heart Beat para computación distribuida.
+- Que tipo de pasaje de mensajes es mejor para implementarlo. Justifique.
+- Escriba un algoritmo Heart Beat para construir la topografia de una red. // Este es con el diametro de la red no conocido
+4)
+- N procesos deben realizar la suma de un conjunto de números y todos deben conocer el resultado, cada proceso tiene uno de los numeros. Compare las soluciones utilizando arquitecturas centralizada, anillo circular, full-conected y arbol. Compare el número de mensajes enviados, performance global(o algo asi).
+- Escribir el código para dos de las arquitecturas
+
+Aca habia más incisos
+
+5)--Ejercicio practico
+
+6)
+- Cúal es el objetivo de la programación paralela?
+- Que es speedup? Que es eficiencia? de cada uno cúales son los valores posible? Ejemplifique
+- Explique el concepto de escalabilidad
+- Se tienen dos algoritmos para los que la función de speedup son respectivamente S=p-4 y S=p/3(si p>4) donde p es el numero de procesadores que algoritmo es más escalable? justificar.
+- Explique el concepto de la Ley de amdhal. No es necesaria la formula
