@@ -10,3 +10,4 @@ En este repositorio vas a poder encontrar bibliografía, clases teóricas, enunc
 - [Práctica 2](https://github.com/JoaquinManuelGonzalez/Programacion-Concurrente/blob/main/practicas_resueltas/practica_dos.md)
 - [Práctica 3](https://github.com/JoaquinManuelGonzalez/Programacion-Concurrente/blob/main/practicas_resueltas/practica_tres.md)
 - [Práctica de Repaso - MC](https://github.com/JoaquinManuelGonzalez/Programacion-Concurrente/blob/main/practicas_resueltas/practica_repaso_MC.md)
+- [Práctica 4](https://github.com/JoaquinManuelGonzalez/Programacion-Concurrente/blob/main/practicas_resueltas/practica_cuatro.md)
