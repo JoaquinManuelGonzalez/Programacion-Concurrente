@@ -109,7 +109,6 @@ chan atencionCaja[5](int, Pago);
 chan entregaComprobante[P](Comprobante);
 chan liberarCaja(int);
 
-
 Process Cliente[id: 1 ... P] {
     Pago pago;
     Comprobante comprobante;
