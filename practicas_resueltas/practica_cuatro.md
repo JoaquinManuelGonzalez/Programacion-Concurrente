@@ -790,6 +790,7 @@ Process Buffer {
         bufferPersonas.push(idPersona);
         personasQueSolicitaron++;
     [] !bufferPersonas.isEmpty(); Empleado?avisoDisponible() → Empleado!recibirPeticion(bufferPersonas.pop());
+    od
 }
 
 Process Empleado {
