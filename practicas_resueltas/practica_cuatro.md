@@ -789,7 +789,7 @@ Process Buffer {
     do personasQueSolicitaron < P; Persona[*]?solicitarSimulador(idPersona) →
         bufferPersonas.push(idPersona);
         personasQueSolicitaron++;
-    [] !bufferPersonas.isEmpty(); Empleado?avisoDisponible() → Empleado!recibirPeticion(idPersona);
+    [] !bufferPersonas.isEmpty(); Empleado?avisoDisponible() → Empleado!recibirPeticion(bufferPersonas.pop());
 }
 
 Process Empleado {
