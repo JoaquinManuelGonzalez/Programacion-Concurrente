@@ -1,0 +1,6 @@
+Tomaron:
+- Propiedad a lo sumo una vez
+- Comunicación guardada: descripción + un ejercicio
+- Eficiencia: definiciones y ejercicios
+- Y de práctico:
+	Exclusión mutua con token passing y la típica de arquitectura centralizada, circular y estrella, y arbol
